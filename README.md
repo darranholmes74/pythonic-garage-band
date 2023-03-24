@@ -17,7 +17,7 @@ Setup
 
 How to initialize
 
-python3 pthonic_garage_band.py.py
+python3 pythonic_garage_band.py.py
 
 
 Tests
@@ -26,5 +26,5 @@ How do you run tests?
 
 pytest
 
-Any tests of note?
+
 
